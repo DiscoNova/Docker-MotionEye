@@ -3,7 +3,7 @@
 FROM ubuntu:18.04
 
 LABEL maintainer="malvarez00@icloud.com"
-ARG VERSION=0.42
+ARG VERSION=0.42.1
 
 # Environment Settings
 ENV DEBIAN_FRONTEND noninteractive
